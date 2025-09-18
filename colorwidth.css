@@ -1,0 +1,17 @@
+#textBox {
+    border: 2px solid red;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: black; /* default color */
+    width: fit-content;
+}
+
+#colorInput, 
+#widthInput {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    font-size: 16px;
+}
+
